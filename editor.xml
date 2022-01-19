@@ -1,0 +1,17 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="PT Mono" />
+    <option name="LINE_SPACING" value="1.05" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
+  </component>
+</application>
