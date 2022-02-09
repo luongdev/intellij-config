@@ -1,0 +1,14 @@
+<application>
+  <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SORT_TABS_ALPHABETICALLY" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>
